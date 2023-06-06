@@ -1,7 +1,0 @@
-name: C++
-resources:
-    - name: Learn C++
-      level: Beginner
-      type: Online Book
-      price: Free
-      link: https://www.learncpp.com/
